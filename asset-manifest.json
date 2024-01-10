@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/award-giver/static/js/main.1432c2d1.js",
+    "main.js": "/award-giver/static/js/main.e860eb57.js",
     "index.html": "/award-giver/index.html",
-    "main.1432c2d1.js.map": "/award-giver/static/js/main.1432c2d1.js.map"
+    "main.e860eb57.js.map": "/award-giver/static/js/main.e860eb57.js.map"
   },
   "entrypoints": [
-    "static/js/main.1432c2d1.js"
+    "static/js/main.e860eb57.js"
   ]
 }
